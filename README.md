@@ -29,17 +29,17 @@ dotnet add package Swashbuckle.AspNetCore
 # Run your GUI
 start DependencyInjectionDemo.csproj
 ```
-## Modern Dependency Injection in .NET 10 – Demo Project (2025)
+## Modern Dependency Injection in .NET – Demo Project 
 
-![.NET 10](https://img.shields.io/badge/.NET-10-blueviolet?logo=dotnet)
+![.NET 9](https://img.shields.io/badge/.NET-9-blueviolet?logo=dotnet)
 ![C# 14](https://img.shields.io/badge/C%23-14-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Fully working, production-ready example of **advanced Dependency Injection** in .NET 10 (November 2025) – built exactly the way senior developers and architects write code today.
+Fully working, production-ready example of **advanced Dependency Injection** in .NET – built exactly the way to show how it can be coded in various approaches.
 
 ## What you will learn
 
-| Feature                              | 2025 Best Practice Used                                   |
+| Feature                              | Best Practice Used                                   |
 |--------------------------------------|--------------------------------------------------------------------|
 | Records & primary constructors       | Immutable-first models                                            |
 | Keyed Services (.NET 8+)             | `AddKeyedSingleton`, `IKeyedServiceProvider`                     |
