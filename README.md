@@ -69,7 +69,7 @@ POST /api/payments/charge/PayPal?amount=22.50
 POST /api/payments/charge-factory
 {
   "amount": 149.99,
-  "provider": "crypto",     // accepts any case → auto-converted!
+  "provider": "crypto",
   "currency": "USD"
 }
 ```
