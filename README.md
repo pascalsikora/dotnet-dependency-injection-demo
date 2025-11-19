@@ -65,7 +65,7 @@ POST /api/payments/charge/PayPal?amount=22.50
 ```
 
 #### Modern style – factory + enum (recommended)
-```json
+```http
 POST /api/payments/charge-factory
 {
   "amount": 149.99,
